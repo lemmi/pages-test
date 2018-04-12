@@ -1,3 +1,3 @@
 # pages-test
 
-[link](bar/foo)
+[link](foo/bar)
